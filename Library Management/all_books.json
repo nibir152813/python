@@ -1,0 +1,13 @@
+[
+    {
+        "title": "book 01",
+        "author": "author 01",
+        "isbn": 49804,
+        "year": 2025,
+        "price": 200,
+        "quantity": 15,
+        "bookAddedAt": "04-01-25 18:33:46",
+        "booklastupdated": "",
+        "booklastupdatedAt": "04-01-25 18:37:01"
+    }
+]
